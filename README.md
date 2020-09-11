@@ -1,2 +1,2 @@
 # DPCMNE
-detecting protein complexes from protein-protein interaction networks via multi-level network embedding
+After sorting out the code and data, we will upload them to GitHub.
