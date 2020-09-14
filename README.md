@@ -1,4 +1,4 @@
 # DPCMNE
-After sorting out the code and data, we will upload them to GitHub.
+ The source code will be avaliable soon.
 
 mxmanhui@csu.edu.cn
